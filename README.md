@@ -7,3 +7,4 @@ https://github.com/alura-es-cursos
 
 Cursos Python:
 1. https://github.com/alura-es-cursos/python-para-datascience-primeros-pasos
+2. https://github.com/alura-es-cursos/2048-python-para-data-science-trabajar-con-funciones/
